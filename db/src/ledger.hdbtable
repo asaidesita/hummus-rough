@@ -1,0 +1,5 @@
+column table config (
+	 title nvarchar(50),
+	 price float,
+	 createdby date
+)
